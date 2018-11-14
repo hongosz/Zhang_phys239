@@ -1,5 +1,7 @@
 #Define Gaussian Shape scaled with input cross section 
 import numpy as np 
+import matplotlib.pyplot as plt
+
 
 pc = (3.086 *10**17)    #[cm] 
 D = (100 * pc )
