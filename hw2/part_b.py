@@ -1,5 +1,5 @@
 import numpy as np 
-pc = (3.086 *10**17)    #[cm] 
+pc = (3.086 *10**18)    #[cm] 
 D = (100 * pc )
 n = 1.                   #[cm^-3]
 
